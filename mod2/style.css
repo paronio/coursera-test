@@ -1,3 +1,8 @@
+* {
+  box-sizing: border-box;
+}
+
+
 body {
   font-family: "Tahoma", sans-serif;
 }
@@ -9,13 +14,12 @@ h1 {
 .box {
   border: 1px solid black;
   width: 33%;
-  display: inline-block;
   background-color: lightgray;
   text-align: center;
 }
 
 .wrapper {
-  padding-top: 50px;
+  width:100%;
 }
 
 .title {
@@ -65,6 +69,10 @@ h1 {
   #box1, #box2 {
     width: 45%;
     margin: 0 2% 30px 2%;
+
+  }
+  .wrapper{
+  	margin-left: 20px;
   }
   
   #box3 {
@@ -81,5 +89,8 @@ h1 {
     margin-bottom: 20px;
     margin-left: 1%;
     margin-right: 1%;
+  }
+  .wrapper {
+  	margin-left: 10px;
   }
 }
