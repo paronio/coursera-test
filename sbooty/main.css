@@ -1,0 +1,116 @@
+body {
+	background-color: #cccc00;
+	font-family: 'Exo 2', sans-serif;
+}
+
+
+#header {
+	
+	
+	box-shadow:3px 3px 5px 6px black;
+	background-color: #b3b300;
+	width: 60%;
+	margin-top: 20px;
+	margin-left: 420px;
+	padding: 10px;
+
+
+
+}
+
+#team {
+	font-size:30px;
+	width: 50%;
+	margin-left: 400px;
+	text-shadow: 2px 2px #4d4d00;
+	
+}
+
+
+
+.col-lg-4 {
+	background-color: black;
+	width: 20%;
+	margin-left: 190px;
+	margin-top: 40px;
+	padding: 40px;
+	border-width:5px;	
+    border-style:ridge;
+    border-color: #e6e600;
+
+}
+
+.col-lg-4 a {
+	background-color: #b3b300;
+	border-width:5px;	
+    border-style:ridge;
+    border-color: #e6e600;
+    color: black;
+	padding: 5px;
+	text-shadow: 1px 1px #4d4d00;
+	text-decoration: none;
+	margin:90px;
+}
+
+div > img {
+  width: auto;
+  height : auto;
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.foto {
+	padding: 3px;
+	box-shadow:3px 3px 5px 6px black;
+}
+
+
+
+
+
+
+
+.col-lg-12 {
+	background-color: #b3b300;
+	border-width:5px;	
+    border-style:ridge;
+    border-color: #e6e600;
+    padding:30px;
+    width: 80%;
+    margin-top: 200px;
+    margin-left: 200px;
+    margin-bottom: 10px;
+}
+
+.insidebox {
+	background-color: #1a1a00;
+	padding: 30px;
+	border-width:5px;	
+    border-style:ridge;
+    border-color: #e6e600;
+}
+
+#aris {
+	font-size: 30px;
+	color: #ffff00;
+	margin-left: 600px;
+	text-shadow: 2px 2px #cccc00;
+}
+
+/* mouse over link */
+a:hover {
+    color: #ff4d4d;
+
+}
+
+/* selected link */
+a:active {
+    color: #800080;
+}
+
+
+
+
+
+
+

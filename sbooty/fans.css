@@ -1,0 +1,99 @@
+body {
+	background-color: #cccc00;
+	font-family: 'Exo 2', sans-serif;
+}
+
+#container {
+	box-shadow:3px 3px 5px 6px black;
+	background-color: #b3b300;
+	width: 60%;
+	margin-top: 20px;
+	margin-left: 400px;
+	margin-bottom: 20px;
+	padding: 10px;
+
+}
+
+ ul li {
+display: inline;
+}
+
+
+#navigation {
+margin-left: 315px;
+display: inline-block;
+	
+
+}
+
+#aris {
+	font-size:30px;
+	width: 50%;
+	margin-left: 400px;
+	text-shadow: 2px 2px #4d4d00;
+	display: inline-block;
+	
+}
+
+li a {
+	margin-right: 30px;
+	margin-left: 
+}
+
+.col-lg-12 {
+	background-color: #b3b300;
+	box-shadow:3px 3px 5px 6px black;
+	margin: 40px;
+	margin-left: 300px;
+	width: 70%;
+	padding: 50px;
+}
+
+.article1 {
+	background-color: #999900;
+	border: 2px solid #808000;
+	border-radius: 25px;
+    color:#cccc00;
+	font-size: 15px;
+	padding: 5px;
+	width: 40%;
+	margin-left: 350px;
+	margin-bottom: 45px;
+}
+
+#thess {
+	margin-left: 200px;
+}
+
+#end {
+	border-width:5px;	
+    border-style:double;
+    box-shadow: none;
+	margin-top: 175px;
+	padding: 7px;
+
+}
+
+#foot {
+	margin-left: 380px;
+	margin-top: 30px;
+}
+
+/* mouse over link */
+a:hover {
+    color: #ff4d4d;
+    font-size:15px;
+
+}
+
+/* selected link */
+a:active {
+    color: #800080;
+}
+
+a {
+	background-color:#999900;
+	color: #e6e600;
+	padding: 4px;
+	border-radius: 5px;
+}
